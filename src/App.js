@@ -23,8 +23,12 @@ function App() {
         picture="https://randomuser.me/api/portraits/women/44.jpg"
       />
 
+      {/* <div className="hallo"> */}
       <Greetings lang="de">Ludwig</Greetings>
+      {/* </div> */}
+      {/* <div className="bonjour"> */}
       <Greetings lang="fr">François</Greetings>
+      {/* </div> */}
     </div>
   );
 }
