@@ -34,3 +34,11 @@
   gap: 5px;
   padding: 5px;
 }
+
+.random {
+  display: flex;
+  border: 2px solid black;
+  margin: 20px;
+  gap: 5px;
+  padding: 5px;
+}
